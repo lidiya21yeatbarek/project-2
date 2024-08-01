@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+img{
+    width: 100%;
+   
+}
+.pupp{
+    background-color:rgb(89, 89, 182);
+}
+.miss{
+    background-color: brown;
+    color: black;
+    padding: 9.6%;
+}
+h2{
+    font-size: 40px;
+   
+}
+.s2
+{
+    margin-top:10px ;
+}
